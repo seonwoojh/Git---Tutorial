@@ -35,3 +35,5 @@ git checkout --<file> 수정내역 무시하고 원래대로 되돌리기
 <커밋 메세지 수정>
 
 git commit --amend
+
+git pull
