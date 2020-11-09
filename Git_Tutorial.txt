@@ -34,6 +34,10 @@ git checkout --<file> 수정내역 무시하고 원래대로 되돌리기
 
 <커밋 메세지 수정>
 
-git commit --amend
+git commit --amend후 실행되는 에디터에서 A를 누르고 커밋 메세지 수정 / esc를 누르고 :wq!를 입력하면 수정된 내역 저장 후 빠져 나올수 있다.
 
 git pull
+
+git log <- 커밋 내역 확인하기 / q를 이용해 빠져나오기
+
+git reset --hard / soft / mixed 후 git push -f로 푸쉬하기
