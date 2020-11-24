@@ -8,5 +8,5 @@
 
 -> 다른부분을 확인하고 어느 부분을 수정할 지 결정 후 다시 merge를 실행한다.
 
--> 항상 merge를 수행했다면 git branch -d 명령을 이용해 다른 브랜치를 지워준다. (삭제후 git branch로 확인하기)
+-> 항상 merge를 수행했다면 git branch -d 명령을 이용해 다른 브랜치를 지워준다. (삭제후 git branch로 확인하기).
 
