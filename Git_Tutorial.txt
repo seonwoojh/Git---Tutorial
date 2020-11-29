@@ -59,6 +59,6 @@ git branch develop <- develop 브랜치 생성하기
 
 git checkout develop <- develop 브랜치 사용하기
 
-git checkout master > git merge develop <- 마스터 브랜치에서 develop 브랜치와 합치기
+git checkout master > git merge develop <- 마스터 브랜치에서 develop 브랜치와 합치기.
 
 git branch -d develop <- 병합을 마쳤다면 develop 브랜치의 역할은 다 했기 때문에 제거해주기.
