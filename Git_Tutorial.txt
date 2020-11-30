@@ -24,7 +24,7 @@ git push
 
 <소스코드 수정 후 반영하기>
 
-git status 로 확인해보기 <- 수정 반영된 내용 확인
+git status 로 확인해보기 <- 수정 반영된 내용 확인.
 
 git reset < - add 내역 지우기
 
